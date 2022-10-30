@@ -1,4 +1,4 @@
-10.30 2:18 PM
+
 #include <iostream>
 using namespace std;
 
