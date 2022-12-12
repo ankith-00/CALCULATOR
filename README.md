@@ -11,13 +11,10 @@ If you want to exit after operation Enter 5 to END program.
 
 operation it can perform are 
 
-1.[+]--Additiona.      
+1.Additiona.      
 
-2.[-]--Subtraction     
+2.Subtraction     
 
-3.[×]--Multiplication  
+3.Multiplication  
 
-4.[/]--Division.       
-
-
-T H A N K     Y O U
+4.Division.      
